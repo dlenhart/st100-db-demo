@@ -1,0 +1,61 @@
+body {
+
+}
+h1 {
+    text-align: center;
+    text-shadow: 2px 2px 4px #ffffff;
+}
+article {
+    margin-left: 8%;   
+    margin-right: 8%; 
+    
+}
+.col-md-4{
+    margin-bottom: 5%;   
+}
+
+ /* Hide default border to remove 1px line.
+ */
+.navbar {
+  	border-radius: 0px !important;
+	border-left: solid 0px #000 !important;
+	border-right: solid 0px #000 !important;
+	border-bottom: solid 1px #000 !important;
+	box-shadow: 0px 1px 3px #000 !important;
+}
+.navbar-inverse{
+    background-color: #285e8e;
+    color: white;
+}
+.navbar-inverse .navbar-brand {
+    color: #fff !important;
+}
+.navbar-inverse .navbar-brand a{
+    color: #fff !important; 
+    text-decoration:none;
+}
+.navbar-inverse .navbar-brand:hover{
+    color: #000 !important; 
+}
+.navbar-inverse .navbar-nav>li>a{
+    color: #fff !important; 
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+    color: #000 !important; 
+}
+.nav-sidebar>li>a{
+    color: #000 !important; 
+}
+.nav-sidebar>li>a:hover{
+    color: #ADADAD !important; 
+}
+
+@media (min-width: 768px) {
+.navbar {
+	border-radius: 0px !important;
+	border-bottom: solid 1px #000 !important;
+	border-left: solid 0px #000 !important;
+	border-right: solid 0px #000 !important;
+	box-shadow: 0px 1px 3px #000 !important;
+}
+}
