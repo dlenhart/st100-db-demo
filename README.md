@@ -4,4 +4,4 @@ An application launcher created in PHP. Showcased in my article: PHP Database Cl
 
 # Instructions
 
-Visit http://www.drewlenhart.com/php-database-class-bootstrap-and-a-discarded-project/ for a quick demonstration.  Package includes .sql table for MySQL database.
+Visit http://www.drewlenhart.com/blog/php-database-class-bootstrap for a quick demonstration.  Package includes .sql table for MySQL database.
